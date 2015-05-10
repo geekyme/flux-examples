@@ -3,6 +3,7 @@
  * Copyrights licensed under the New BSD License. See the accompanying LICENSE file for terms.
  */
 import React from 'react';
+<<<<<<< HEAD
 import {NavLink} from 'fluxible-router';
 
 class Home extends React.Component {
